@@ -1,17 +1,3 @@
-# TypingRapid ⌨️
+TypingRapid ⌨️
 
-A rapid typing speed test and practice tool. Challenge yourself to type faster and improve your keyboard skills with immediate visual feedback.
-
-## 🌟 Features
-- Real-time words per minute (WPM) calculation
-- Accuracy tracking
-- Dynamic text generation
-- Responsive minimalist design
-
-## 🛠️ Technologies Used
-- HTML5
-- CSS3
-- Vanilla JavaScript
-
-## 🚀 Getting Started
-Open `index.html` in your web browser to start testing your typing speed!
+TypingRapid is a browser-based typing speed test and practice application designed to help users improve their typing skills through real-time performance tracking. The application presents dynamically generated text passages that users must type accurately and quickly while measuring key metrics such as words per minute (WPM) and typing accuracy. With a clean, responsive, and minimalist interface, TypingRapid provides instant feedback that allows users to monitor their progress, identify mistakes, and gradually increase their typing speed through consistent practice. Built entirely with HTML, CSS, and JavaScript, the project delivers a lightweight and accessible experience that runs directly in modern web browsers without requiring additional dependencies.
