@@ -1,17 +1,7 @@
-# TypingRapid ⌨️
+# TypingRapid: Minimalist Speed Typing Test ⌨️
 
-A rapid typing speed test and practice tool. Challenge yourself to type faster and improve your keyboard skills with immediate visual feedback.
+TypingRapid is a clean, focused typing speed test built for the web that measures words per minute, accuracy, and raw typing speed in real time as the user types. The interface is stripped down to the essentials — a word display area with a smooth caret that follows each keystroke, live stats at the top showing WPM, time elapsed, and accuracy percentage, and absolutely nothing else to distract from the task. When the user clicks away or loses focus, the text blurs out and a subtle prompt appears asking them to click back in, keeping the experience tight and intentional throughout the entire test.
 
-## 🌟 Features
-- Real-time words per minute (WPM) calculation
-- Accuracy tracking
-- Dynamic text generation
-- Responsive minimalist design
+The typing area generates dynamic text for each session, so every test feels fresh. Characters highlight in real time to show correct and incorrect input, and the caret animation gives the whole thing a fluid, modern feel similar to popular typing tools like Monkeytype. Once the test is complete, a results screen presents the final WPM, accuracy, and raw WPM in a clean card layout, with a restart button to immediately jump back in. Keyboard shortcuts are built in too — pressing `Tab` restarts the test and `Esc` resets everything, so power users never have to reach for the mouse.
 
-## 🛠️ Technologies Used
-- HTML5
-- CSS3
-- Vanilla JavaScript
-
-## 🚀 Getting Started
-Open `index.html` in your web browser to start testing your typing speed!
+The entire project runs on vanilla HTML, CSS, and JavaScript with no frameworks, no build tools, and no external dependencies. It loads instantly, works on any screen size, and the dark-themed minimalist design makes it comfortable to use for extended practice sessions. TypingRapid was built with the belief that a typing test should get out of your way and let you focus on one thing — getting faster. No accounts, no leaderboards, no clutter. Just you, the words, and the clock.
